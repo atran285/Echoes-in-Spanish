@@ -1,5 +1,6 @@
 body.home {
   background: linear-gradient(120deg, #fefaf6, #f4eae2);
+  accent: #c94057
   color: #3a3a3a;
   font-family: 'Inter', sans-serif;
   min-height: 100vh;
