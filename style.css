@@ -8,8 +8,10 @@ body.home {
 
 /* Navigation Bar */
 .navbar {
+  display: flex;
+  justify-content: flex-end;
   background-color: #fff1f1;
-  padding: 0.5 rem 1rem;
+  padding: 1rem 2rem;
   margin-top: 1rem;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
