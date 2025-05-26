@@ -1,2 +1,2 @@
-# Lo Que No Dije (What I Didn't Say)
+# Lo Que No Dije 
 A bilingual website inspired by a meaningful connection that shaped my personal and creative growth. Growing up in a predominantly Hispanic school, music and language became powerful ways for me to understand emotion and identity. Through Spanish-language songs, lyric translations, and thoughtful visuals, I reflect on silence, culture, and what's left unsaid. This project is a tribute to growth, influence, and the quiet impact people can have on our paths. Built with HTML, CSS, JavaScript, and JSON, it also showcases my front-end development skills through a personal, human lens.
